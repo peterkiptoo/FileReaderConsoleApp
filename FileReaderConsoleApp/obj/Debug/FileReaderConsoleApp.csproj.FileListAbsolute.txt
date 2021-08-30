@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\FileReaderConsoleApp\FileReaderConsoleApp\bin\Debug\FileReaderConsoleApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FileReaderConsoleApp\FileReaderConsoleApp\bin\Debug\FileReaderConsoleApp.exe
+c:\users\user\documents\visual studio 2015\Projects\FileReaderConsoleApp\FileReaderConsoleApp\bin\Debug\FileReaderConsoleApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\FileReaderConsoleApp\FileReaderConsoleApp\obj\Debug\FileReaderConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FileReaderConsoleApp\FileReaderConsoleApp\obj\Debug\FileReaderConsoleApp.exe
+c:\users\user\documents\visual studio 2015\Projects\FileReaderConsoleApp\FileReaderConsoleApp\obj\Debug\FileReaderConsoleApp.pdb
